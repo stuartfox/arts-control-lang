@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 # Create ARTS grammar by processing Jinja template
 
 from jinja2 import Environment, FileSystemLoader
